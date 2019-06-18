@@ -21,7 +21,7 @@ const byte motorup = 9;      //Motor up pin
 const byte motordown = 10;   //Motor down pin 
 const byte touchReceive = 11;//Receive pin for Capacitance Sensing Circuit 
 const byte touchSend = 12;   //Send pin for Capacitance Sensing Circuit
-const byte pMODE = 66;       //mode switch (used for debug mode)
+const byte pMODE = 66;       //A12 mode switch (used for debug mode)
 //Display 1 RX1  blue
 //Display 1 TX1  yellow
 //Display 2 RX2  blue
