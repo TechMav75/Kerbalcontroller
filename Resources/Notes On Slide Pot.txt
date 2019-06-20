@@ -1,0 +1,10 @@
+Terminal Breakout:
+
+Line Track uses 1 and 3 for the ends of the track, and 2 is the wiper
+The Line Track has a logrithmic taper to its resistance curve
+
+
+Servo Track uses 1' and 3' for the ends of the track, and 2' for the wiper
+The Servo Track has a linear taper to its resistance curve
+
+T is the Touch Sense Track, and not used in this instance
