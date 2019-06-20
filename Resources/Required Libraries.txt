@@ -1,0 +1,7 @@
+Need the Button library from:
+https://github.com/madleech/Button
+
+Installation
+Download the ZIP archive (https://github.com/madleech/Button/zipball/master), then open the Arduino IDE and choose Sketch > Include Library > Add .ZIP Library... and select your downloaded file.
+
+
